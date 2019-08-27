@@ -1,0 +1,14 @@
+fr\formation\inti\hql\HqlSelectExample2.class
+fr\formation\inti\hql\HqlSelectExample.class
+fr\formation\inti\hql\HqlSelectSomeColumn.class
+fr\formation\inti\dao\EmployeeDaoImpl.class
+fr\formation\inti\dao\IEmployeeDao.class
+fr\formation\inti\entities\Employee.class
+fr\formation\inti\utils\HibernateUtils.class
+fr\formation\inti\service\EmployeeService.class
+fr\formation\inti\entities\ShortEmpInfo.class
+fr\formation\inti\hql\HqlSelectUniqueResult.class
+fr\formation\inti\entities\Department.class
+fr\formation\inti\App4.class
+fr\formation\inti\hql\HqlSelectShortBean.class
+fr\formation\inti\Applog.class
