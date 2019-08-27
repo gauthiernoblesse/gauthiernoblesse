@@ -15,6 +15,7 @@ public class App {
 		AbstractApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
 		System.out.println("========================================================");
 
+		System.out.println();
 		HelloBean hb = context.getBean("hello", HelloBean.class);
 
 		hb.Hello();
